@@ -15,7 +15,7 @@ body{
     background: linear-gradient(to right, rgb(97, 100, 119), rgb(165, 164, 164));
 
 }
-a{
+.a{
     padding: 20px 40px;
     color: rgb(255, 254, 254);
     text-decoration: none;

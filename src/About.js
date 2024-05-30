@@ -1,14 +1,14 @@
 import React from 'react'
 import Navbar from './Navbar'
 import './App.css'
-const Home = () => {
+const About = () => {
   return (
     <>
-        <div className='home-container'>
+        <div className='about-container'>
             <Navbar />
             <div className='row'>
                 <div className='col'>
-                    <h1>LIGHTOLUTION</h1>
+                    <h1>About Us</h1>
                 </div>
                 <div className='col'>
                     
@@ -19,5 +19,4 @@ const Home = () => {
   )
 }
 
-export default Home
-
+export default About
